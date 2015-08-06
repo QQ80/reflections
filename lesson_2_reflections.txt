@@ -23,3 +23,8 @@ history organized? How would branches help?
 	When I want to add a new feature, but am not sure about really adding
 	it, I can put it in a branches, which would help if I were to really add
 	the feature, or if I would like to get rid of it.
+
+How do the diagrams help you visualize the branch structure?
+
+	They help by making clearly visible which of the actual branches are 
+	associated with, or inherits which other branch.
