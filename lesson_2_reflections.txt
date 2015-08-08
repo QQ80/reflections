@@ -28,3 +28,9 @@ How do the diagrams help you visualize the branch structure?
 
 	They help by making clearly visible which of the actual branches are 
 	associated with, or inherits which other branch.
+
+What is the result of merging two branches together? Why do we represent it
+in the diagram the way we do?
+
+	The branches' features mix together. It is represented like that beacause
+	that's how it works.
