@@ -34,3 +34,9 @@ in the diagram the way we do?
 
 	The branches' features mix together. It is represented like that beacause
 	that's how it works.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Git's automatic merging can simplify the merging process of commits, and do
+	everything automagically. The bad side is that sometimes automatic merging creates
+	some merge conflicts that the user would then have to solve themselves.
