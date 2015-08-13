@@ -31,3 +31,10 @@ and what would be harder?
 	to be messy, with patches all over the place. Sorting the situation
 	out would be hard. However, it is easier by the fact that I don't have
 	to do all this "git" stuff.
+
+When would you want to make changes in a separate branch rather than 
+directly in master? What benefits does each approach have?
+
+	Wnen making changes in a separate branch, it's easy to iron out the
+	kinks and then get the branch merged with master. Making changes
+	directly in master means that you don't get to have that.
