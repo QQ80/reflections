@@ -23,3 +23,11 @@ remote stored locally?
 	
 	So that you won't have to do merges and pulls and pushs... all that,
 	and just edit that repository directly.
+
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+	
+	If I didn't collaborate using Git or GitHub, alot of things are going
+	to be messy, with patches all over the place. Sorting the situation
+	out would be hard. However, it is easier by the fact that I don't have
+	to do all this "git" stuff.
